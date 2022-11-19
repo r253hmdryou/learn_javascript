@@ -1,0 +1,2 @@
+# learn_javascript
+今までなんとなくで使っていたjavascriptの細部を理解するためのレポジトリ
